@@ -8,3 +8,12 @@
 Ranjith2806/Ranjith2806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="right">
+<!-- <img alt="lang stats" src="https://github-readme-streak-stats.herokuapp.com?user=Ranjith2806&theme=radical)](https://git.io/streak-stats" alt="Ranjith2806">
+</p> -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranjith2806&theme=radical)](https://git.io/streak-stats)
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ranjith2806&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Ranjith2806" /></p>
+
+
