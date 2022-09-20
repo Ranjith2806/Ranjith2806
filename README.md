@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranjith2806&theme=radical)](https://git.io/streak-stats)
 
+<p align="right">
+<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith2806&layout=compact&hide_border=true&theme=blue-green&langs_count=10&hide=procfile&exclude_repo=dice,blog">
+</p>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ranjith2806&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Ranjith2806" /></p>
 
 
