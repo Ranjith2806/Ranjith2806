@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Mern
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:-ranjithkumars2806@gmail.com
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjith2806&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjith2806" /></p>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;IoT+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!---
